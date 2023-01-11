@@ -45,7 +45,7 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 	```
 	git clone https://github.com/fermat01/Data-analytics-using-spark-scala.git
 	```
-2. In the repo, Navigate to Spark RDD, Spark SQL or Spark Dataframe locations as needed.
+2. In the repo, navigate to Spark RDD, Spark SQL or Spark Dataframe locations as needed.
 
 3. Run the execute script to view results
 	```
