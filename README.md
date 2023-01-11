@@ -43,7 +43,7 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 
 1. Simply clone the repository
 	```
-	git clone https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala.git
+	git clone https://github.com/fermat01/Data-analytics-using-spark-scala.git
 	```
 2. In the repo, Navigate to Spark RDD, Spark SQL or Spark Dataframe locations as needed.
 
