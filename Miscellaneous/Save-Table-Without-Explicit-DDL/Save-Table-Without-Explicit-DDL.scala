@@ -1,5 +1,5 @@
 //Import Data
-val raw =  scala.io.Source.fromURL("https://raw.githubusercontent.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala/master/Movielens/users.dat").mkString
+val raw =  scala.io.Source.fromURL("https://raw.githubusercontent.com/fermat01/Data-analytics-using-spark-scala/master/Movielens/users.dat").mkString
 
 val list = raw.split("\n").filter(_ != "")
 
