@@ -35,7 +35,7 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 
 # Environment
 * Windows Subsystem ( WSL2 / Ubuntu 20.04) 
-* Hadoop 2.7.0
+* Hadoop 2.7
 * Spark 3.2.0
 * Scala 2.12.15
 
