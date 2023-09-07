@@ -6,6 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/fermat01/Data-analytics-using-spark-scala?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/fermat01/Data-analytics-using-spark-scala.svg?cache=remove)
 
+ 
  Using Spark Scala to do data cleaning, pre-processing, and analytics on a million movies dataset.
 
  
